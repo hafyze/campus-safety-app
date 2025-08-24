@@ -1,5 +1,6 @@
 {
-  "appId": "com.campus-safety.app",
-  "appName": "campus-safety-app",
-  "webDir": "build"
+  "appId": "com.campus.safety",
+  "appName": "CampusSafetyApp",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }
