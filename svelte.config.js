@@ -7,6 +7,8 @@ const config = {
   kit: {
     adapter: adapter({
       // fallback so SPA routing works
+      pages: 'build',
+      assets: 'build',
       fallback: 'index.html'
     })
   }
